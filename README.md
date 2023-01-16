@@ -3,7 +3,7 @@ This repo is for my award-winning group project of [DataFest@UofT 2022](https://
 
 Our goal of the project is to investigate the engagement level of participants so that they can learn more and complete more events. Our research question is to understand the probability of completion the game from a survival analysis perspective. You may find our final products in our write-up and the final presentation (.pdf).
 
-Our project has been awarded as the Best Statistical Analysis Award. I was the group leader who designed survival framework for the entire project. The attached JupyterHub Notebook contains the Python codes to clean the original data (not publicly available) using Pandas and construct our *survival Cox Proportional-hazards Model* and *Survival Random Forest*.
+Our project has been awarded as **the Best Statistical Analysis Award** among 25 undergraduate student teams. I was the group leader who designed survival framework for the entire project. The attached JupyterHub Notebook contains the Python codes to clean the original data (not publicly available) using Pandas and construct our **survival Cox Proportional-hazards Model** and **Survival Random Forest**.
 
 Survival Random Forest is an ensemble tree method for analysis of survival data. We introduced all variables
 from PCA and player’s age to estimate the probability of completing the game above the threshold. Event though
